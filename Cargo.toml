@@ -1,0 +1,5 @@
+[package]
+name = "two-sum"
+version = "0.1.0"
+edition = "2021"
+description = "Two Sum problem solved in Rust — O(n) using HashMap"
